@@ -14,7 +14,7 @@ This project involves the implementation of Convolutional Neural Networks (CNNs)
 
   <img src="assets/Test_Resamples_mean_std_1DConv_4_Multitask_Test_S_H-Bonding.png" alt="Model Performance" style="width:30%;" />
 
-  <img src="assets/Test_Resamples_mean_std_1DConv_4_Multitask_Test_Tm_H-Bonding.png" alt="Model Performance" style="width:30%;" />
+  <img src="assets/Test_Resamples_mean_std_1DConv_4_Multitask_Test_T_H-Bonding.png" alt="Model Performance" style="width:30%;" />
 <div>
 ---
 
