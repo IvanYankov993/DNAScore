@@ -1,0 +1,65 @@
+*.c
+*.cml
+*.cpptraj
+*.csv
+*.dat
+*.data-00000-of-00001
+*.doc
+*.exe
+*.h
+*.h5
+*.html
+*.in
+*.index
+*.info
+*.inpcrd
+exe
+*.log
+*.md
+*.mdcrd
+*.mol2
+*.nab
+*.out
+*.pb
+*.pdb
+*.pdf
+*.pkg
+*.png
+*.ppt
+*.pptx
+*.prmtop
+
+*.pyc
+*.pyz
+*.r
+*.rst7
+*.rtf
+*.sdf
+*.sh
+*.spec
+*.tif
+*.toc
+*.txt
+*.xls
+*.xlsx
+*.zip
+
+# Ignore CSV files
+*.csv
+
+# Ignore PNG images
+*.png
+
+# Ignore JPG images
+*.jpg
+
+# Ignore data folders
+data/
+datasets/
+dist/
+bin/
+
+
+# Ignore system files (specific to macOS)
+.DS_Store
+
