@@ -1,4 +1,4 @@
-Project: CNN single and multitask for DNA thermal Stability
+# Project: CNN single and multitask for DNA thermal Stability
 This project involves the implementation of Convolutional Neural Networks (CNNs) on High-Performance Computing (HPC) infrastructure, focusing on single-task and multitask learning for DNA duplexes, particularly for properties such as dg, dh, ds, and Tm. The CNN is designed for efficient batch job submissions and parallel processing, generating a significant amount of data, which is managed through compression. Here's a more specific breakdown of the contents:
 
 1. assets/
