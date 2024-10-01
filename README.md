@@ -1,6 +1,6 @@
 # Project Name
 
-This repository contains various notebooks, scripts, and modules focused on the development and experimentation of machine learning (ML) models, including single and multi-task convolutional neural networks (CNNs), data exploration, and model evaluation.
+This repository is dedicated to the development and experimentation of various machine learning (ML) models, focusing on single and multi-task convolutional neural networks (CNNs), data exploration, and model evaluation. It is structured to support ease of use, collaboration, and future scalability. The repository contains key modules and scripts to facilitate the training, evaluation, and deployment of machine learning models.
 
 ## Table of Contents
 - [Project Structure](#project-structure)
@@ -14,12 +14,15 @@ This repository contains various notebooks, scripts, and modules focused on the 
   - [SK-learn](#sk-learn)
   - [exploration](#exploration)
   - [src](#src)
+    - [experiments](#experiments-1)
     - [models](#models)
     - [parser](#parser)
     - [training](#training)
     - [utils](#utils)
 - [Contributing](#contributing)
 - [License](#license)
+
+---
 
 ## Project Structure
 
