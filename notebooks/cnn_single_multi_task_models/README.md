@@ -7,15 +7,15 @@ This project involves the implementation of Convolutional Neural Networks (CNNs)
 ### 1. `assets/`
 - **Description**: Contains PNG images visualizing the model's performance on test sets. The images depict results from 50-fold cross-validation, reporting the mean and standard deviation of predictions.
 - **Example Image:**
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/Test_Resamples_mean_std_1DConv_4_Multitask_Test_G_H-Bonding.png" alt="Model Performance" style="width:30%;" />
 
-<img src="assets/Test_Resamples_mean_std_1DConv_4_Multitask_Test_G_H-Bonding.png" alt="Model Performance" style="width:30%;" />
+  <img src="assets/Test_Resamples_mean_std_1DConv_4_Multitask_Test_H_H-Bonding.png" alt="Model Performance" style="width:30%;" />
 
-<img src="assets/Test_Resamples_mean_std_1DConv_4_Multitask_Test_H_H-Bonding.png" alt="Model Performance" style="width:30%;" />
+  <img src="assets/Test_Resamples_mean_std_1DConv_4_Multitask_Test_S_H-Bonding.png" alt="Model Performance" style="width:30%;" />
 
-<img src="assets/Test_Resamples_mean_std_1DConv_4_Multitask_Test_S_H-Bonding.png" alt="Model Performance" style="width:30%;" />
-
-<img src="assets/Test_Resamples_mean_std_1DConv_4_Multitask_Test_Tm_H-Bonding.png" alt="Model Performance" style="width:30%;" />
-
+  <img src="assets/Test_Resamples_mean_std_1DConv_4_Multitask_Test_Tm_H-Bonding.png" alt="Model Performance" style="width:30%;" />
+<div>
 ---
 
 ### 2. `bin/`
