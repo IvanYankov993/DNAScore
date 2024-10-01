@@ -29,7 +29,7 @@ This project involves the implementation of Convolutional Neural Networks (CNNs)
 ---
 
 ### 4. `Evaluation_lomzov.ipynb`
-- **Description**: A notebook that investigates the inner hyperparameter optimization loop. It performs a grid search to evaluate CNN architectures and hyperparameters, visualizing model performance and identifying the best configurations.
+- **Description**: A notebook that investigates the inner hyperparameter optimization loop. It performs analysis on a grid search to evaluate the impact of CNN architectures and hyperparameters, visualizing model performance and identifying the best configurations. These are restrospective analysis to grasp a better understansind of the CNN architercture and hyperparameters impact on the multitask performance. In addition it evaluates the error in the learned relationship between dG=dH-TdS.
 
 ---
 
@@ -37,7 +37,7 @@ This project involves the implementation of Convolutional Neural Networks (CNNs)
 - **Description**: A notebook used for submitting single-task CNN jobs to the HPC. It handles the creation and submission of job scripts and moves completed jobs to storage efficiently.
 - **Example Image:**
 
-  ![Single Task Job Submission](assets/job_submission_single.png)
+  ![Single Task Job Submission pending](assets/job_submission_single.png)
 
 ---
 
@@ -45,7 +45,7 @@ This project involves the implementation of Convolutional Neural Networks (CNNs)
 - **Description**: Similar to `Run_jobs.ipynb`, but tailored for multitask learning. This script submits batch jobs where the CNN shares the entire architecture except for four output nodes. Each output node handles a specific DNA duplex property, optimizing resource efficiency in an HPC environment.
 - **Example Image:**
 
-  ![Multitask Job Submission](assets/job_submission_multitask.png)
+  ![Multitask Architecture pending](assets/job_submission_multitask.png)
 
 ---
 
@@ -79,3 +79,5 @@ This project involves the implementation of Convolutional Neural Networks (CNNs)
 2. Set up the environment using Anaconda:
    ```bash
    conda env create -f environment.yaml
+3. NB! request access to data
+4. NB! fix hard coded paths
