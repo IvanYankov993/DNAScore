@@ -1,6 +1,6 @@
 # Project: CNN single and multitask for DNA thermal Stability
 
-This project involves the implementation of Convolutional Neural Networks (CNNs) on High-Performance Computing (HPC) infrastructure, focusing on single-task and multitask learning for DNA duplexes, particularly for properties such as dg, dh, ds, and Tm. The CNN is designed for efficient batch job submissions and parallel processing, generating a significant amount of data, which is managed through compression. Here's a more specific breakdown of the contents:
+This project involves the implementation of Convolutional Neural Networks (CNNs) on High-Performance Computing (HPC) infrastructure, focusing on single-task and multitask learning for DNA duplexes, particularly for properties such as dG, dH, dS, and Tm. The CNN is designed for efficient batch job submissions and parallel processing, generating a significant amount of data, which is managed through compression. Here's a more specific breakdown of the contents:
 ---
 
 ## Folder Structure
@@ -18,7 +18,7 @@ This project involves the implementation of Convolutional Neural Networks (CNNs)
 ---
 
 ### 3. `dev/`
-- **Description**: This folder contains exploratory work for extending the CNN architecture. The development explores using four separate branches in the network, allowing each branch to specialize in a specific property (dg, dh, ds, Tm). This is designed to provide more accurate and specialized predictions compared to using a fully shared network.
+- **Description**: This folder contains exploratory work for extending the CNN architecture. The development explores using four separate branches in the network, allowing each branch to specialize in a specific property (dG, dH, dS, Tm). This is designed to provide more accurate and specialized predictions compared to using a fully shared network.
 
 ---
 
