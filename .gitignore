@@ -57,6 +57,7 @@ exe
 data/
 datasets/
 dist/
+**/bin/
 
 # Ignore system files (specific to macOS)
 .DS_Store
